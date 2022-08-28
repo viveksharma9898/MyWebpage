@@ -5,9 +5,10 @@ body {
 div {
   background-color: cyan;
   border: solid black;
+  max-width: 1000px;
   border-width: 5px 10px 30px 1px;
   padding: 50px 10px 20px;
-  margin: 100px 30px 50px;
+  margin: 100px auto 50px;
 }
 h3 {
   color: brown;
